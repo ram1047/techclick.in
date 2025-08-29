@@ -11,6 +11,14 @@ header, footer {
   text-align: center;
   padding: 20px;
 }
+nav a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
 main {
   max-width: 800px;
   margin: 20px auto;
